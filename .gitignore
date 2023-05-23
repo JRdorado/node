@@ -1,0 +1,6 @@
+salida/*.txt
+
+# Eliminar archivos de salida
+
+node_modules/
+
